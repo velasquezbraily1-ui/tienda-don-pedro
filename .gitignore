@@ -1,0 +1,6 @@
+# Claves y datos privados: nunca se suben
+.env
+
+# Archivos que crea Phyton solo
+__pycache__/
+.venv/
